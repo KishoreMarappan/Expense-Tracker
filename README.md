@@ -1,1 +1,1 @@
- This is used to connect with api and perform CURD operations.
+ This is about connecting  with api and perform CURD operations.
